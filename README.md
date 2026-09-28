@@ -1,4 +1,4 @@
-# My Git Practice README
+# AI Revolution in Software Development by Mckinsey
 
 ## Artical
 
